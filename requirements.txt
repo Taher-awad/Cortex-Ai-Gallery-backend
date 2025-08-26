@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+aiosqlite
+pillow
+opencv-python
+numpy
+insightface
+scikit-learn
+torch
+transformers
